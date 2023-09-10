@@ -4,3 +4,5 @@
 - git add 
 - git commit
 - git restore
+- git reset
+- git log
